@@ -1,0 +1,2 @@
+model_name,model_location,accuracy,f-1 score,recall,precision,auc_roc,average_precision,brier_score_loss
+20190406-163309-LightGBM-no-search.pkl,../model/20190406-163309-LightGBM-no-search.pkl,0.98656330749354,0.6486486486486486,0.4897959183673469,0.96,0.9685870106260956,0.783949929326864,0.013436692506459949

@@ -1,0 +1,11 @@
+os
+pandas==0.24.1
+scikit-learn==0.20.3
+numpy==1.15.4
+inflect==2.0.1
+BeautifulSoup4==4.7.1
+re==2.2.1
+nltk==3.4
+lxml==4.3.3
+afinn==0.1
+spacy==2.1.3
